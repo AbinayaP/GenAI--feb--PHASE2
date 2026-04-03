@@ -11,4 +11,6 @@ Week 1- day 2
 <img width="2790" height="1594" alt="image" src="https://github.com/user-attachments/assets/7d493549-f34a-437b-bafe-55da855319c7" />
 
 output :
+<img width="1469" height="788" alt="Screenshot 2026-04-03 at 1 54 50 PM" src="https://github.com/user-attachments/assets/2b16aadb-94c1-40d7-9648-e9e26ec3c457" />
+
 
